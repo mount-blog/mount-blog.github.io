@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mount-blog.github.io/</id>
     <title>Mount</title>
-    <updated>2020-03-23T06:13:28.880Z</updated>
+    <updated>2020-03-23T06:27:27.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mount-blog.github.io/"/>
     <link rel="self" href="https://mount-blog.github.io/atom.xml"/>
@@ -16,5 +16,17 @@
         <link href="https://mount-blog.github.io/post/liu-qing-2019-xi-fang-si-xiang-nian-du-shu-ping-ren-lei-dang-xia-de-kun-jing/">
         </link>
         <updated>2020-03-22T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://theinitium.com/article/20200218-opinion-liuqing-2019review-new-thoughts/">阅读全文</a><br>
+Mount：2019年的困境将会变成未来的僵局。<br>
+作者:刘擎(华东师范大学教授)<br>
+本文为刘擎教授自2003年起所撰写“西方思想年度述评”系列2019年作品中篇，首发于《澎湃新闻·上海书评》栏目，有部分删减。<br>
+转载自[端传媒]。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://theinitium.com/article/20200218-opinion-liuqing-2019review-new-thoughts/">阅读全文</a><br>
+Mount：2019年的困境将会变成未来的僵局。<br>
+作者:刘擎(华东师范大学教授)<br>
+本文为刘擎教授自2003年起所撰写“西方思想年度述评”系列2019年作品中篇，首发于《澎湃新闻·上海书评》栏目，有部分删减。<br>
+转载自[端传媒]。</p>
+]]></content>
     </entry>
 </feed>
