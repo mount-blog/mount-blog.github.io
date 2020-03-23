@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mount-blog.github.io/</id>
     <title>Mount</title>
-    <updated>2020-03-23T06:37:38.220Z</updated>
+    <updated>2020-03-23T09:36:46.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mount-blog.github.io/"/>
     <link rel="self" href="https://mount-blog.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://mount-blog.github.io/images/avatar.png</logo>
     <icon>https://mount-blog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Mount</rights>
+    <entry>
+        <title type="html"><![CDATA[为何我“欲寻利器”]]></title>
+        <id>https://mount-blog.github.io/post/wei-he-wo-yu-xun-li-qi/</id>
+        <link href="https://mount-blog.github.io/post/wei-he-wo-yu-xun-li-qi/">
+        </link>
+        <updated>2020-03-24T08:48:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>今日浇花，准备用装菜的不锈钢盆装水了事。其实，好多次我都觉得不锈钢盆其实不是一个适合浇花的工具。因为它敞口，且口径极大，倾倒时水流过大，在浇小花盆时水很容易很容易漫出来。但我一直“将就”着用下来——直到喷壶的出现。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>今日浇花，准备用装菜的不锈钢盆装水了事。其实，好多次我都觉得不锈钢盆其实不是一个适合浇花的工具。因为它敞口，且口径极大，倾倒时水流过大，在浇小花盆时水很容易很容易漫出来。但我一直“将就”着用下来——直到喷壶的出现。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[刘擎：2019西方思想年度述评——人类当下的困境]]></title>
         <id>https://mount-blog.github.io/post/liu-qing-2019-xi-fang-si-xiang-nian-du-shu-ping-ren-lei-dang-xia-de-kun-jing/</id>
