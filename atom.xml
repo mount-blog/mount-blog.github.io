@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mount-blog.github.io/</id>
     <title>Mount</title>
-    <updated>2020-03-23T09:47:46.294Z</updated>
+    <updated>2020-03-24T09:58:13.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mount-blog.github.io/"/>
     <link rel="self" href="https://mount-blog.github.io/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://mount-blog.github.io/images/avatar.png</logo>
     <icon>https://mount-blog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Mount</rights>
+    <entry>
+        <title type="html"><![CDATA[难民的“地下铁路]]></title>
+        <id>https://mount-blog.github.io/post/nan-min-de-di-xia-tie-lu/</id>
+        <link href="https://mount-blog.github.io/post/nan-min-de-di-xia-tie-lu/">
+        </link>
+        <updated>2020-03-25T09:45:58.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="难民的地下铁路">难民的“地下铁路<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>”</h1>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>(美国内战前)废奴主义者帮助奴隶逃跑用的地下交通网 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="难民的地下铁路">难民的“地下铁路<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>”</h1>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>(美国内战前)废奴主义者帮助奴隶逃跑用的地下交通网 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为何我“欲寻利器”]]></title>
         <id>https://mount-blog.github.io/post/wei-he-wo-yu-xun-li-qi/</id>
