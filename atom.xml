@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mount-blog.github.io/</id>
     <title>Mount</title>
-    <updated>2020-03-30T08:00:06.920Z</updated>
+    <updated>2020-04-06T08:31:02.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mount-blog.github.io/"/>
     <link rel="self" href="https://mount-blog.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://mount-blog.github.io/images/avatar.png</logo>
     <icon>https://mount-blog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Mount</rights>
+    <entry>
+        <title type="html"><![CDATA[日落、超级月亮、迎面的车——50件低头玩手机会错过的事]]></title>
+        <id>https://mount-blog.github.io/post/ri-luo-chao-ji-yue-liang-ying-mian-de-che-50-jian-di-tou-wan-shou-ji-hui-cuo-guo-de-shi/</id>
+        <link href="https://mount-blog.github.io/post/ri-luo-chao-ji-yue-liang-ying-mian-de-che-50-jian-di-tou-wan-shou-ji-hui-cuo-guo-de-shi/">
+        </link>
+        <updated>2020-04-06T08:28:14.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://www.theguardian.com/media/shortcuts/2020/feb/12/sunsets-supermoons-and-cold-hard-cash-50-things-you-miss-while-staring-at-your-phone#img-1">英文原文</a></p>
+<blockquote>
+<p>喂，玩手机的小孩，你就要错过这50件事啦。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.theguardian.com/media/shortcuts/2020/feb/12/sunsets-supermoons-and-cold-hard-cash-50-things-you-miss-while-staring-at-your-phone#img-1">英文原文</a></p>
+<blockquote>
+<p>喂，玩手机的小孩，你就要错过这50件事啦。</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第xx大艺术——播客]]></title>
         <id>https://mount-blog.github.io/post/di-xx-da-yi-zhu-bo-ke/</id>
