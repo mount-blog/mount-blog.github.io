@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mount-blog.github.io/</id>
     <title>Mount</title>
-    <updated>2020-04-06T08:31:02.904Z</updated>
+    <updated>2020-04-19T12:30:26.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mount-blog.github.io/"/>
     <link rel="self" href="https://mount-blog.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://mount-blog.github.io/images/avatar.png</logo>
     <icon>https://mount-blog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Mount</rights>
+    <entry>
+        <title type="html"><![CDATA[那时我们有梦，关于文学]]></title>
+        <id>https://mount-blog.github.io/post/na-shi-wo-men-you-meng-guan-yu-wen-xue/</id>
+        <link href="https://mount-blog.github.io/post/na-shi-wo-men-you-meng-guan-yu-wen-xue/">
+        </link>
+        <updated>2020-04-19T11:43:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>转载并美化了88年毕业的中文系学生的毕业纪念册。定是只有他们这样的青年一代才能在89年发出正义的强音吧。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>转载并美化了88年毕业的中文系学生的毕业纪念册。定是只有他们这样的青年一代才能在89年发出正义的强音吧。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日落、超级月亮、迎面的车——50件低头玩手机会错过的事]]></title>
         <id>https://mount-blog.github.io/post/ri-luo-chao-ji-yue-liang-ying-mian-de-che-50-jian-di-tou-wan-shou-ji-hui-cuo-guo-de-shi/</id>
